@@ -1,1 +1,1 @@
-# Daily codewars challenges that I solve using Python!
+# Daily Codewars challenges that I solve using Python!
