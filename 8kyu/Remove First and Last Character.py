@@ -6,3 +6,8 @@
 def remove_char(s):
     string = s[1:-1]
     return string
+
+
+# Uncomment to run and check test cases
+# s = "string"
+# print(remove_char(s))
