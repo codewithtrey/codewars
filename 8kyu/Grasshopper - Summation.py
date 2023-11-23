@@ -8,6 +8,7 @@
 # 2 -> 3 (1 + 2)
 # 8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
 
+
 # My Solution
 def summation(num):
     if num <= 0:
@@ -17,3 +18,8 @@ def summation(num):
         for i in range(1, num + 1):
             total += i
         return total
+
+
+# Uncomment to run and check test cases
+# num = 6
+# print(summation(num))
