@@ -15,6 +15,6 @@ def make_negative( number ):
         return number
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # number = 5
 # print(make_negative(number))

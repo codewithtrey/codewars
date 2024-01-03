@@ -10,6 +10,6 @@ def even_or_odd(number):
         return "Odd"
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # number = 6
 # print(even_or_odd(number))

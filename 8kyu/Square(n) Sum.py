@@ -11,6 +11,6 @@ def square_sum(numbers):
     return sum
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # numbers = [1,2,2]
 # print(square_sum(numbers))

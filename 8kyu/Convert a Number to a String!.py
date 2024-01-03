@@ -10,6 +10,6 @@ def number_to_string(num):
     return str(num)
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # num = 300
 # print(number_to_string(num))

@@ -19,6 +19,6 @@ def row_sum_odd_numbers(n):
     return n**3
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # n = 2
 # print(row_sum_odd_numbers(n))

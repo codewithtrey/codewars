@@ -20,6 +20,6 @@ def summation(num):
         return total
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # num = 6
 # print(summation(num))

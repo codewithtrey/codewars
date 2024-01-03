@@ -14,6 +14,6 @@ def opposite(number):
     return -number
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # number = 5
 # print(opposite(number))
