@@ -8,6 +8,6 @@ def remove_char(s):
     return string
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # s = "string"
 # print(remove_char(s))

@@ -13,6 +13,6 @@ def positive_sum(arr):
     return sum(positive_numbers)
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # arr = [1, -4, 7, 12]
 # print(positive_sum(arr))

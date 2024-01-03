@@ -10,6 +10,6 @@
 def reverse_string(string):
     return string[::-1]
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # result1 = reverse_string('world')
 # print(result1)

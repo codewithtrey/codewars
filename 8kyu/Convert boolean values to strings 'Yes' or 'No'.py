@@ -10,6 +10,6 @@ def bool_to_word(boolean):
         return "No"
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # boolean = True
 # print(bool_to_word(boolean))
