@@ -10,11 +10,7 @@ def repeat_str(repeat, string):
     return string * repeat
 
 
-# Uncomment to run and check test cases
+# Uncomment to run and check test case
 # repeat = 6
 # string = "I"
-# print(repeat_str(repeat, string))
-
-# repeat = 5
-# string = "Hello"
 # print(repeat_str(repeat, string))
