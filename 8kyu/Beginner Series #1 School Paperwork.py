@@ -17,6 +17,6 @@ def paperwork(n, m):
         return n * m
 
 
-# Uncomment to run and check test case
+# Uncomment to run and check test cases
 # print(paperwork(5, 5))  # Output: 25 (5 classmates *  5 pages per classmate)
 # print(paperwork(-5, 5))  # Output: 0 (Negative n, should return 0)
