@@ -16,7 +16,7 @@ def zero_fuel(distance_to_pump, mpg, fuel_left):
     return max_distance >= distance_to_pump
 
 
-# Uncomment to run and check test case
+# Uncomment to run and check test cases
 # print(zero_fuel(50, 25, 2))   # Output: True (2 gallons * 25 mpg >= 50 miles)
 # print(zero_fuel(100, 30, 3))  # Output: False (3 gallons * 30 mpg < 100 miles)
 # print(zero_fuel(30, 20, 1))   # Output: False (1 gallon * 20 mpg < 30 miles)
