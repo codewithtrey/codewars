@@ -14,6 +14,6 @@ def other_angle(a, b):
     return 180 - a - b
 
 
-# Uncomment to run and check test case
+# Uncomment to run and check test cases
 # print(other_angle(45, 45))  # Output: 90
 # print(other_angle(30, 60))  # Output: 90
